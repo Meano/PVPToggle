@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="../PVPToggle/lib/worldguard-6.0.0-beta-01.jar"/>
+	<classpathentry kind="lib" path="../PVPToggle/lib/worldguard-5.5.3.jar"/>
+	<classpathentry kind="lib" path="../Library/Spigot-API-1.8.8.jar"/>
+	<classpathentry kind="lib" path="../Library/Spigot-1.8.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
